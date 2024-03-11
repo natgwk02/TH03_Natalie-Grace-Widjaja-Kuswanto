@@ -1,0 +1,10 @@
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\bin\Debug\TH03_Natalie Grace Widjaja Kuswanto.exe.config
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\bin\Debug\TH03_Natalie Grace Widjaja Kuswanto.exe
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\bin\Debug\TH03_Natalie Grace Widjaja Kuswanto.pdb
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\obj\Debug\TH03_Natalie Grace Widjaja Kuswanto.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\obj\Debug\TH03_Natalie_Grace_Widjaja_Kuswanto.Form1.resources
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\obj\Debug\TH03_Natalie_Grace_Widjaja_Kuswanto.Properties.Resources.resources
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\obj\Debug\TH03_Natalie Grace Widjaja Kuswanto.csproj.GenerateResource.cache
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\obj\Debug\TH03_Natalie Grace Widjaja Kuswanto.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\obj\Debug\TH03_Natalie Grace Widjaja Kuswanto.exe
+C:\Users\daniel\source\repos\TH03_Natalie Grace Widjaja Kuswanto\TH03_Natalie Grace Widjaja Kuswanto\obj\Debug\TH03_Natalie Grace Widjaja Kuswanto.pdb
